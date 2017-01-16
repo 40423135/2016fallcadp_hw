@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423135 上課 hw</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-01-12T12:00:00+08:00</updated><entry><title>1 / 12</title><link href="./1-12.html" rel="alternate"></link><updated>2017-01-12T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-01-12:./1-12.html</id><summary type="html">&lt;p&gt;期末總整理 &lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>12 / 29 hw</title><link href="./12-29-hw.html" rel="alternate"></link><updated>2016-12-29T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-12-29:./12-29-hw.html</id><summary type="html"></summary><category term="fourbar"></category></entry><entry><title>12 / 22 hw</title><link href="./12-22-hw.html" rel="alternate"></link><updated>2016-12-22T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-12-22:./12-22-hw.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;3D印表機完成&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423135 上課 hw</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-01-12T12:00:00+08:00</updated><entry><title>1 / 12</title><link href="./1-12.html" rel="alternate"></link><updated>2017-01-12T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-01-12:./1-12.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;Onshape week1 hw-1&lt;/h1&gt;
+&lt;iframe src="https://player.vimeo.com/video/199667968" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/199667968"&gt;w15 hw-2&lt;/a&gt; from &lt;a href="https://vimeo.com/user61603798"&gt;陳冠錡&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h1&gt;Onshape week1 hw-2&lt;/h1&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/199667932" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/199667932"&gt;w15 hw-1&lt;/a&gt; from &lt;a href="https://vimeo.com/user61603798"&gt;陳冠錡&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;用onshape畫圖還滿方便的！！
+雖然沒有辦法像solidworks那樣可以按指令
+但沒有軟體的可以直接上網就畫圖很方便&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>12 / 29 hw</title><link href="./12-29-hw.html" rel="alternate"></link><updated>2016-12-29T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-12-29:./12-29-hw.html</id><summary type="html"></summary><category term="fourbar"></category></entry><entry><title>12 / 22 hw</title><link href="./12-22-hw.html" rel="alternate"></link><updated>2016-12-22T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-12-22:./12-22-hw.html</id><summary type="html">&lt;h2&gt;3D印表機完成&lt;/h2&gt;
 
 
 &lt;h3&gt;3D印表機零件&lt;/h3&gt;
@@ -33,7 +43,7 @@
 下載繪圖軟體練習零件繪製:&lt;font color="#990099"&gt; http://solvespace.com/bracket.pl &lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;畫3D的影片
 &lt;iframe src="https://player.vimeo.com/video/185641132" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/185641132"&gt;畫3d&lt;/a&gt; from &lt;a href="https://vimeo.com/user47988113"&gt;邱弘丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>12 / 15 hw</title><link href="./12-15-hw.html" rel="alternate"></link><updated>2016-12-15T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-12-15:./12-15-hw.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt; 2016Fall Solvespace 小方塊完成&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/185641132"&gt;畫3d&lt;/a&gt; from &lt;a href="https://vimeo.com/user47988113"&gt;邱弘丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>12 / 15 hw</title><link href="./12-15-hw.html" rel="alternate"></link><updated>2016-12-15T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-12-15:./12-15-hw.html</id><summary type="html">&lt;h2&gt;2016Fall Solvespace 小方塊完成&lt;/h2&gt;
 
 
 &lt;h3&gt;本體&lt;/h3&gt;
@@ -44,7 +54,7 @@
 &lt;p&gt;&lt;a href="./../12.15/stent.slvs"&gt;按右鍵存檔即可:))&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;固定塊&lt;/h3&gt;
 &lt;p&gt;&lt;iframe src="./../12.15/block.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="./../12.15/block.slvs"&gt;按右鍵存檔即可:))&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>12 / 8 hw</title><link href="./12-8-hw.html" rel="alternate"></link><updated>2016-12-08T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-12-08:./12-8-hw.html</id><summary type="html"></summary><category term="fourbar"></category></entry><entry><title>12 / 1 hw</title><link href="./12-1-hw.html" rel="alternate"></link><updated>2016-12-01T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-12-01:./12-1-hw.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt; 2016Fall Solvespace 教學2&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="./../12.15/block.slvs"&gt;按右鍵存檔即可:))&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>12 / 8 hw</title><link href="./12-8-hw.html" rel="alternate"></link><updated>2016-12-08T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-12-08:./12-8-hw.html</id><summary type="html"></summary><category term="fourbar"></category></entry><entry><title>12 / 1 hw</title><link href="./12-1-hw.html" rel="alternate"></link><updated>2016-12-01T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-12-01:./12-1-hw.html</id><summary type="html">&lt;h2&gt;2016Fall Solvespace 教學2&lt;/h2&gt;
 
 
 &lt;p&gt;這禮拜教了如何用 slovespace 繪製小方塊&lt;/p&gt;
@@ -54,7 +64,9 @@
 &lt;p&gt;&lt;a href="./../12.15/stent.slvs"&gt;按右鍵存檔即可:))&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;固定塊&lt;/h3&gt;
 &lt;p&gt;&lt;iframe src="./../12.15/block.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="./../12.15/block.slvs"&gt;按右鍵存檔即可:))&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>11 / 24 hw</title><link href="./11-24-hw.html" rel="alternate"></link><updated>2016-11-24T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-11-24:./11-24-hw.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt; ##2016Fall Solvespace 教學&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="./../12.15/block.slvs"&gt;按右鍵存檔即可:))&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>11 / 24 hw</title><link href="./11-24-hw.html" rel="alternate"></link><updated>2016-11-24T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-11-24:./11-24-hw.html</id><summary type="html">&lt;h2&gt;2016Fall Solvespace 教學&lt;/h2&gt;
+
+
 &lt;h2&gt;Solvespace&lt;/h2&gt;
 &lt;h3&gt;1. Parts (零件繪製)&lt;/h3&gt;
 &lt;p&gt;範例檔案: &lt;a href="http://solvespace.com/bracket.pl"&gt;http://solvespace.com/bracket.pl&lt;/a&gt;&lt;/p&gt;
@@ -78,7 +90,7 @@
 &lt;p&gt;使用 Virtualbox 虛擬主機執行 Windows 64 位元與 Ubuntu 64 位元環境中的編譯與延伸應用.&lt;/p&gt;
 &lt;p&gt;Virtualbox Ubuntu 64位元虛擬檔案: &lt;a href="http://140.130.17.17/public/Ubuntu/1604_solvespace_final/Ubuntu_160464.vdi"&gt;http://140.130.17.17/public/Ubuntu/1604_solvespace_final/Ubuntu_160464.vdi&lt;/a&gt; (只有在區網可以下載)&lt;/p&gt;
 &lt;p&gt;在虛擬主機中完成 Solvespace 編譯與執行的參考畫面:&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/solvespace/cadpa_w11_solvespace_compiled.png" width="800" /&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>11 / 17 hw</title><link href="./11-17-hw.html" rel="alternate"></link><updated>2016-11-17T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-11-17:./11-17-hw.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;畫四連桿機構&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/solvespace/cadpa_w11_solvespace_compiled.png" width="800" /&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>11 / 17 hw</title><link href="./11-17-hw.html" rel="alternate"></link><updated>2016-11-17T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-11-17:./11-17-hw.html</id><summary type="html">&lt;h2&gt;畫四連桿機構&lt;/h2&gt;
 
 
 &lt;p&gt;Solvespace 平面四連桿機構模擬
@@ -152,22 +164,21 @@ ctx.strokeStyle = "blue"
 # 實際執行畫線
 ctx.stroke()
 ctx.closePath()
-&lt;/script&gt;</summary><category term="fourbar"></category></entry><entry><title>11 / 3 hw</title><link href="./11-3-hw.html" rel="alternate"></link><updated>2016-11-03T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-11-03:./11-3-hw.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;期中考前一周囉!!!!!&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
-
+&lt;/script&gt;</summary><category term="fourbar"></category></entry><entry><title>11 / 3 hw</title><link href="./11-3-hw.html" rel="alternate"></link><updated>2016-11-03T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-11-03:./11-3-hw.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;今天要自評與評組員囉!&lt;/p&gt;
 &lt;p&gt;也是看看自己這兩個月做了甚麼事!!!&lt;/p&gt;
 &lt;p&gt;老師教我們看onshape的範例  自己畫畫看 這是我畫的&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://imgur.com/6OEwGIS"&gt;&lt;img src="http://i.imgur.com/6OEwGIS.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://imgur.com/7OVkCrJ"&gt;&lt;img src="http://i.imgur.com/7OVkCrJ.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>10 / 27 hw</title><link href="./10-27-hw.html" rel="alternate"></link><updated>2016-10-27T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-10-27:./10-27-hw.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;四連桿機構&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/7OVkCrJ"&gt;&lt;img src="http://i.imgur.com/7OVkCrJ.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>10 / 27 hw</title><link href="./10-27-hw.html" rel="alternate"></link><updated>2016-10-27T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-10-27:./10-27-hw.html</id><summary type="html">&lt;h2&gt;四連桿機構&lt;/h2&gt;
 
 
 &lt;p&gt;已經四連桿各桿尺寸, 當機構繞行一圈後求特定點的座標, 以 Solvespace 進行點座標追蹤存檔, 得到
-&lt;a href="./../10.27/10.27_fourbar.csv"&gt;w7_fourbar.csv&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;根據下圖, 試驗證 Solvespace 機構模擬的資料之正確性.
-&lt;a href="http://imgur.com/3R53BDI"&gt;&lt;img src="http://i.imgur.com/3R53BDI.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href="./../10.27/w7_fourbar.csv"&gt;w7_fourbar.csv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;根據下圖, 試驗證 Solvespace 機構模擬的資料之正確性.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/3R53BDI"&gt;&lt;img src="http://i.imgur.com/3R53BDI.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Solvespace 四連桿圖檔:
-&lt;a href="./../10.27/10.27_fourbar.slvs"&gt;按右鍵存檔即可:))&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>2016Fall w7 四連桿機構模擬</title><link href="./2016fall-w7-si-lian-gan-ji-gou-mo-ni.html" rel="alternate"></link><updated>2016-10-27T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-10-27:./2016fall-w7-si-lian-gan-ji-gou-mo-ni.html</id><summary type="html">&lt;p&gt;已經四連桿各桿尺寸, 當機構繞行一圈後求特定點的座標, 以 Solvespace 進行點座標追蹤存檔, 得到 &lt;a href="./../w7/w7_fourbar.csv"&gt;w7_fourbar.csv&lt;/a&gt;, 根據下圖, 試驗證 Solvespace 機構模擬的資料之正確性.&lt;/p&gt;
+&lt;a href="./../10.27/w7_fourbar.slvs"&gt;按右鍵存檔即可:))&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>2016Fall w7 四連桿機構模擬</title><link href="./2016fall-w7-si-lian-gan-ji-gou-mo-ni.html" rel="alternate"></link><updated>2016-10-27T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-10-27:./2016fall-w7-si-lian-gan-ji-gou-mo-ni.html</id><summary type="html">&lt;p&gt;已經四連桿各桿尺寸, 當機構繞行一圈後求特定點的座標, 以 Solvespace 進行點座標追蹤存檔, 得到 &lt;a href="./../w7/w7_fourbar.csv"&gt;w7_fourbar.csv&lt;/a&gt;, 根據下圖, 試驗證 Solvespace 機構模擬的資料之正確性.&lt;/p&gt;
 
 
 &lt;p&gt;&lt;img src="./../w7/cadp_w7_fourbar.png" width="600" /&gt;&lt;/p&gt;
@@ -253,10 +264,7 @@ for i in not_in_group:
     container3 &lt;= "第"+str(n)+"位: "+ str(i)
     n = n + 1
     container3 &lt;= html.BR()
-&lt;/script&gt;</summary><category term="使用導引"></category></entry><entry><title>10 / 20 hw</title><link href="./10-20-hw.html" rel="alternate"></link><updated>2016-10-20T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-10-20:./10-20-hw.html</id><summary type="html">&lt;p&gt;這禮拜是給自己修補LEO的時間&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="http://imgur.com/7OVkCrJ"&gt;&lt;img src="http://i.imgur.com/7OVkCrJ.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>10 / 13 hw</title><link href="./10-13-hw.html" rel="alternate"></link><updated>2016-10-13T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-10-13:./10-13-hw.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;越來越少人來上課了:(((((&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
-
+&lt;/script&gt;</summary><category term="使用導引"></category></entry><entry><title>10 / 20 hw</title><link href="./10-20-hw.html" rel="alternate"></link><updated>2016-10-20T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-10-20:./10-20-hw.html</id><summary type="html">&lt;p&gt;這禮拜是給自己修補LEO的時間&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>10 / 13 hw</title><link href="./10-13-hw.html" rel="alternate"></link><updated>2016-10-13T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-10-13:./10-13-hw.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;今天因為有一組的子模組有出現問題&lt;/p&gt;
 &lt;p&gt;所以有教到如何去除子模組&lt;/p&gt;
@@ -268,7 +276,9 @@ for i in not_in_group:
 &lt;p&gt;&lt;a href="http://imgur.com/vLLN4Dg"&gt;&lt;img src="http://i.imgur.com/vLLN4Dg.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;影片:
 &lt;iframe src="https://player.vimeo.com/video/187984647" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/187984647"&gt;40423125_2016_10_19&lt;/a&gt; from &lt;a href="https://vimeo.com/user47988113"&gt;邱弘丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>10 / 6 hw</title><link href="./10-6-hw.html" rel="alternate"></link><updated>2016-10-06T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-10-06:./10-6-hw.html</id><summary type="html">&lt;p&gt;機械設計系的目標:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/187984647"&gt;40423125_2016_10_19&lt;/a&gt; from &lt;a href="https://vimeo.com/user47988113"&gt;邱弘丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>10 / 6 hw</title><link href="./10-6-hw.html" rel="alternate"></link><updated>2016-10-06T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-10-06:./10-6-hw.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;機械設計系的目標:&lt;/p&gt;
 &lt;p&gt;培養具創造力 精通表達&lt;/p&gt;
 &lt;p&gt;能積極配合 偕同產品設計流程的機械設計工程師&lt;/p&gt;
 &lt;p&gt;創造力=自學力+程式力+想像力&lt;/p&gt;
@@ -278,7 +288,6 @@ for i in not_in_group:
 &lt;p&gt;設proxy=proxy.mde.tw 3128&lt;/p&gt;
 &lt;p&gt;近端裝pelican: pip install pelican&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://imgur.com/sRuXkDr"&gt;&lt;img src="http://i.imgur.com/sRuXkDr.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://imgur.com/hMxbUJz"&gt;&lt;img src="http://i.imgur.com/hMxbUJz.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;影片:
 終於好囉!!!
 &lt;iframe src="https://player.vimeo.com/video/187131111" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -337,9 +346,10 @@ for i in not_in_group:
 新增&lt;font color="#990099"&gt;40423125.github.io.index.html &lt;/font&gt;就會有自己的網頁了&lt;/p&gt;
 &lt;p&gt;8.進入 &lt;font color="#990099"&gt;https://github.com/mdecourse/2016fallcadp/wiki &lt;/font&gt;的上課筆記 &lt;br /&gt;
 下載繪圖軟體練習零件繪製:&lt;font color="#990099"&gt; http://solvespace.com/bracket.pl &lt;/font&gt;&lt;/p&gt;
-&lt;p&gt;畫3D的影片
+&lt;p&gt;畫3D的影片&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/185641132" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/185641132"&gt;畫3d&lt;/a&gt; from &lt;a href="https://vimeo.com/user47988113"&gt;邱弘丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>9 / 15 hw</title><link href="./9-15-hw.html" rel="alternate"></link><updated>2016-09-15T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-15:./9-15-hw.html</id><summary type="html"></summary><category term="fourbar"></category></entry><entry><title>2016Fall 機械設計主題教學</title><link href="./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html</id><summary type="html">&lt;p&gt;知識管理與最佳化應用實驗室試圖利用計算機程式、網際內容管理、電腦輔助設計實習與協同產品設計實習等課程, 進行與機械設計相關的主題式教學, 其中包含強化創造力的教學、令學員熟習六種工程表達方式, 並且俱備融入協同設計所需要的四大面向知識與技能.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/185641132"&gt;畫3d&lt;/a&gt; from &lt;a href="https://vimeo.com/user47988113"&gt;邱弘丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>9 / 15 hw</title><link href="./9-15-hw.html" rel="alternate"></link><updated>2016-09-15T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-15:./9-15-hw.html</id><summary type="html"></summary><category term="fourbar"></category></entry><entry><title>2016Fall 機械設計主題教學</title><link href="./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html</id><summary type="html">&lt;p&gt;知識管理與最佳化應用實驗室試圖利用計算機程式、網際內容管理、電腦輔助設計實習與協同產品設計實習等課程, 進行與機械設計相關的主題式教學, 其中包含強化創造力的教學、令學員熟習六種工程表達方式, 並且俱備融入協同設計所需要的四大面向知識與技能.&lt;/p&gt;
 
 
 &lt;h1&gt;機械設計主題教學&lt;/h1&gt;
