@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423135 上課 hw</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-01-12T12:00:00+08:00</updated><entry><title>1 / 12</title><link href="./1-12.html" rel="alternate"></link><updated>2017-01-12T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-01-12:./1-12.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423135 上課 hw</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-01-12T12:00:00+08:00</updated><entry><title>1 / 12</title><link href="./1-12.html" rel="alternate"></link><updated>2017-01-12T12:00:00+08:00</updated><author><name>40423135</name></author><id>tag:,2017-01-12:./1-12.html</id><summary type="html">&lt;p&gt;小總結&lt;/p&gt;
+
 
 &lt;h1&gt;Onshape week1 hw-1&lt;/h1&gt;
 &lt;iframe src="https://player.vimeo.com/video/199667968" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -9,7 +10,7 @@
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/199667932" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/199667932"&gt;w15 hw-1&lt;/a&gt; from &lt;a href="https://vimeo.com/user61603798"&gt;陳冠錡&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;h2&gt;用onshape畫圖還滿方便的！！&lt;/h2&gt;
 &lt;p&gt;雖然沒有辦法像solidworks那樣可以按指令
-但沒有軟體的可以直接上網就畫圖很方便&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>12 / 22 hw</title><link href="./12-22-hw.html" rel="alternate"></link><updated>2016-12-22T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-12-22:./12-22-hw.html</id><summary type="html">&lt;h2&gt;3D印表機完成&lt;/h2&gt;
+但沒有軟體的可以直接上網就畫圖很方便&lt;/p&gt;</summary><category term="總結"></category></entry><entry><title>12 / 22 hw</title><link href="./12-22-hw.html" rel="alternate"></link><updated>2016-12-22T12:00:00+08:00</updated><author><name>40423135</name></author><id>tag:,2016-12-22:./12-22-hw.html</id><summary type="html">&lt;h2&gt;3D印表機完成&lt;/h2&gt;
 
 
 &lt;h3&gt;3D印表機零件&lt;/h3&gt;
@@ -37,7 +38,7 @@
 &lt;p&gt;7.在 40423125.github.io倉儲的左上角有一個 Create new file點進去
 新增&lt;font color="#990099"&gt;40423125.github.io.index.html &lt;/font&gt;就會有自己的網頁了&lt;/p&gt;
 &lt;p&gt;8.進入 &lt;font color="#990099"&gt;https://github.com/mdecourse/2016fallcadp/wiki &lt;/font&gt;的上課筆記 &lt;br /&gt;
-下載繪圖軟體練習零件繪製:&lt;font color="#990099"&gt; http://solvespace.com/bracket.pl &lt;/font&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>12 / 15 hw</title><link href="./12-15-hw.html" rel="alternate"></link><updated>2016-12-15T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-12-15:./12-15-hw.html</id><summary type="html">&lt;h2&gt;2016Fall Solvespace 小方塊完成&lt;/h2&gt;
+下載繪圖軟體練習零件繪製:&lt;font color="#990099"&gt; http://solvespace.com/bracket.pl &lt;/font&gt;&lt;/p&gt;</summary><category term="12月hw"></category></entry><entry><title>12 / 15 hw</title><link href="./12-15-hw.html" rel="alternate"></link><updated>2016-12-15T12:00:00+08:00</updated><author><name>40423135</name></author><id>tag:,2016-12-15:./12-15-hw.html</id><summary type="html">&lt;h2&gt;2016Fall Solvespace 小方塊完成&lt;/h2&gt;
 
 
 &lt;h3&gt;本體&lt;/h3&gt;
@@ -48,7 +49,7 @@
 &lt;p&gt;&lt;a href="./../12.15/stent.slvs"&gt;按右鍵存檔即可:))&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;固定塊&lt;/h3&gt;
 &lt;p&gt;&lt;iframe src="./../12.15/block.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="./../12.15/block.slvs"&gt;按右鍵存檔即可:))&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>12 / 1 hw</title><link href="./12-1-hw.html" rel="alternate"></link><updated>2016-12-01T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-12-01:./12-1-hw.html</id><summary type="html">&lt;h2&gt;2016Fall Solvespace 教學2&lt;/h2&gt;
+&lt;p&gt;&lt;a href="./../12.15/block.slvs"&gt;按右鍵存檔即可:))&lt;/a&gt;&lt;/p&gt;</summary><category term="12月hw"></category></entry><entry><title>12 / 1 hw</title><link href="./12-1-hw.html" rel="alternate"></link><updated>2016-12-01T12:00:00+08:00</updated><author><name>40423135</name></author><id>tag:,2016-12-01:./12-1-hw.html</id><summary type="html">&lt;h2&gt;2016Fall Solvespace 教學2&lt;/h2&gt;
 
 
 &lt;p&gt;這禮拜教了如何用 slovespace 繪製小方塊&lt;/p&gt;
@@ -58,7 +59,7 @@
 &lt;p&gt;&lt;a href="./../12.15/stent.slvs"&gt;按右鍵存檔即可:))&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;固定塊&lt;/h3&gt;
 &lt;p&gt;&lt;iframe src="./../12.15/block.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="./../12.15/block.slvs"&gt;按右鍵存檔即可:))&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>11 / 24 hw</title><link href="./11-24-hw.html" rel="alternate"></link><updated>2016-11-24T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-11-24:./11-24-hw.html</id><summary type="html">&lt;h2&gt;2016Fall Solvespace 教學&lt;/h2&gt;
+&lt;p&gt;&lt;a href="./../12.15/block.slvs"&gt;按右鍵存檔即可:))&lt;/a&gt;&lt;/p&gt;</summary><category term="12月hw"></category></entry><entry><title>11 / 24 hw</title><link href="./11-24-hw.html" rel="alternate"></link><updated>2016-11-24T12:00:00+08:00</updated><author><name>40423135</name></author><id>tag:,2016-11-24:./11-24-hw.html</id><summary type="html">&lt;h2&gt;2016Fall Solvespace 教學&lt;/h2&gt;
 
 
 &lt;h2&gt;Solvespace&lt;/h2&gt;
@@ -84,18 +85,18 @@
 &lt;p&gt;使用 Virtualbox 虛擬主機執行 Windows 64 位元與 Ubuntu 64 位元環境中的編譯與延伸應用.&lt;/p&gt;
 &lt;p&gt;Virtualbox Ubuntu 64位元虛擬檔案: &lt;a href="http://140.130.17.17/public/Ubuntu/1604_solvespace_final/Ubuntu_160464.vdi"&gt;http://140.130.17.17/public/Ubuntu/1604_solvespace_final/Ubuntu_160464.vdi&lt;/a&gt; (只有在區網可以下載)&lt;/p&gt;
 &lt;p&gt;在虛擬主機中完成 Solvespace 編譯與執行的參考畫面:&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/solvespace/cadpa_w11_solvespace_compiled.png" width="800" /&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>11 / 17 hw</title><link href="./11-17-hw.html" rel="alternate"></link><updated>2016-11-17T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-11-17:./11-17-hw.html</id><summary type="html">&lt;h2&gt;畫四連桿機構&lt;/h2&gt;
+&lt;p&gt;&lt;img src="./../data/solvespace/cadpa_w11_solvespace_compiled.png" width="800" /&gt;&lt;/p&gt;</summary><category term="11月hw"></category></entry><entry><title>11 / 17 hw</title><link href="./11-17-hw.html" rel="alternate"></link><updated>2016-11-17T12:00:00+08:00</updated><author><name>40423135</name></author><id>tag:,2016-11-17:./11-17-hw.html</id><summary type="html">&lt;h2&gt;畫四連桿機構&lt;/h2&gt;
 
 
 &lt;p&gt;Solvespace 平面四連桿機構模擬
 &lt;a href="http://imgur.com/q7drVfw"&gt;&lt;img src="http://i.imgur.com/q7drVfw.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;將所得到的點座標的.csv以Excel的畫圖，得到：
-&lt;a href="http://imgur.com/PlQPkMv"&gt;&lt;img src="http://i.imgur.com/PlQPkMv.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>11 / 3 hw</title><link href="./11-3-hw.html" rel="alternate"></link><updated>2016-11-03T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-11-03:./11-3-hw.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;a href="http://imgur.com/PlQPkMv"&gt;&lt;img src="http://i.imgur.com/PlQPkMv.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="11月hw"></category></entry><entry><title>11 / 3 hw</title><link href="./11-3-hw.html" rel="alternate"></link><updated>2016-11-03T12:00:00+08:00</updated><author><name>40423135</name></author><id>tag:,2016-11-03:./11-3-hw.html</id><summary type="html">&lt;p&gt;今天要自評與評組員囉!&lt;/p&gt;
 
-&lt;p&gt;今天要自評與評組員囉!&lt;/p&gt;
+
 &lt;p&gt;也是看看自己這兩個月做了甚麼事!!!&lt;/p&gt;
 &lt;p&gt;老師教我們看onshape的範例  自己畫畫看 這是我畫的&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://imgur.com/6OEwGIS"&gt;&lt;img src="http://i.imgur.com/6OEwGIS.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>10 / 27 hw</title><link href="./10-27-hw.html" rel="alternate"></link><updated>2016-10-27T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-10-27:./10-27-hw.html</id><summary type="html">&lt;h2&gt;四連桿機構&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/6OEwGIS"&gt;&lt;img src="http://i.imgur.com/6OEwGIS.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="11月hw"></category></entry><entry><title>10 / 27 hw</title><link href="./10-27-hw.html" rel="alternate"></link><updated>2016-10-27T12:00:00+08:00</updated><author><name>40423135</name></author><id>tag:,2016-10-27:./10-27-hw.html</id><summary type="html">&lt;h2&gt;四連桿機構&lt;/h2&gt;
 
 
 &lt;p&gt;已經四連桿各桿尺寸, 當機構繞行一圈後求特定點的座標, 以 Solvespace 進行點座標追蹤存檔, 得到
@@ -103,19 +104,19 @@
 &lt;p&gt;根據下圖, 試驗證 Solvespace 機構模擬的資料之正確性.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://imgur.com/3R53BDI"&gt;&lt;img src="http://i.imgur.com/3R53BDI.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Solvespace 四連桿圖檔:
-&lt;a href="./../10.27/w7_fourbar.slvs"&gt;按右鍵存檔即可:))&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>10 / 20 hw</title><link href="./10-20-hw.html" rel="alternate"></link><updated>2016-10-20T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-10-20:./10-20-hw.html</id><summary type="html">&lt;p&gt;這禮拜是給自己修補LEO的時間&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>10 / 13 hw</title><link href="./10-13-hw.html" rel="alternate"></link><updated>2016-10-13T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-10-13:./10-13-hw.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-&lt;p&gt;今天因為有一組的子模組有出現問題&lt;/p&gt;
+&lt;a href="./../10.27/w7_fourbar.slvs"&gt;按右鍵存檔即可:))&lt;/a&gt;&lt;/p&gt;</summary><category term="10月hw"></category></entry><entry><title>10 / 20 hw</title><link href="./10-20-hw.html" rel="alternate"></link><updated>2016-10-20T12:00:00+08:00</updated><author><name>40423135</name></author><id>tag:,2016-10-20:./10-20-hw.html</id><summary type="html">&lt;p&gt;這禮拜是給自己修補LEO的時間&lt;/p&gt;</summary><category term="10月hw"></category></entry><entry><title>10 / 13 hw</title><link href="./10-13-hw.html" rel="alternate"></link><updated>2016-10-13T12:00:00+08:00</updated><author><name>40423135</name></author><id>tag:,2016-10-13:./10-13-hw.html</id><summary type="html">&lt;p&gt;今天因為有一組的子模組有出現問題&lt;/p&gt;
 &lt;p&gt;所以有教到如何去除子模組&lt;/p&gt;
+
+
 &lt;h2&gt;刪除指令:git rm -rf&lt;/h2&gt;
 &lt;p&gt;參考的連結https://blog.longwin.com.tw/2015/05/git-submodule-add-remove-2015/&lt;/p&gt;
 &lt;p&gt;這禮拜的作業就是小組的blog要有出來以及個人的要新增&lt;/p&gt;
 &lt;p&gt;小組:https://40423106.github.io/2016fallcadp_ag4/blog/index.html&lt;/p&gt;
 &lt;p&gt;個人:https://40423125.github.io/2016fallcadp_hw&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://imgur.com/vLLN4Dg"&gt;&lt;img src="http://i.imgur.com/vLLN4Dg.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>10 / 6 hw</title><link href="./10-6-hw.html" rel="alternate"></link><updated>2016-10-06T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-10-06:./10-6-hw.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-&lt;p&gt;機械設計系的目標:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/vLLN4Dg"&gt;&lt;img src="http://i.imgur.com/vLLN4Dg.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="10月hw"></category></entry><entry><title>10 / 6 hw</title><link href="./10-6-hw.html" rel="alternate"></link><updated>2016-10-06T12:00:00+08:00</updated><author><name>40423135</name></author><id>tag:,2016-10-06:./10-6-hw.html</id><summary type="html">&lt;p&gt;機械設計系的目標:&lt;/p&gt;
 &lt;p&gt;培養具創造力 精通表達&lt;/p&gt;
+
+
 &lt;p&gt;能積極配合 偕同產品設計流程的機械設計工程師&lt;/p&gt;
 &lt;p&gt;創造力=自學力+程式力+想像力&lt;/p&gt;
 &lt;p&gt;表達=oral,text,2D,3D,analytical,physical&lt;/p&gt;
@@ -123,8 +124,10 @@
 &lt;p&gt;工業4.0=客製化,體貼&lt;/p&gt;
 &lt;p&gt;設proxy=proxy.mde.tw 3128&lt;/p&gt;
 &lt;p&gt;近端裝pelican: pip install pelican&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://imgur.com/sRuXkDr"&gt;&lt;img src="http://i.imgur.com/sRuXkDr.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>9 / 29 hw</title><link href="./9-29-hw.html" rel="alternate"></link><updated>2016-09-29T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-29:./9-29-hw.html</id><summary type="html">&lt;p&gt;先到&lt;font color="#990099"&gt; https://github.com/mdecourse/2016fallcadp/wiki/Solvespace_Parts &lt;/font&gt;了解這篇文章&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/sRuXkDr"&gt;&lt;img src="http://i.imgur.com/sRuXkDr.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="10月hw"></category></entry><entry><title>9 / 29 hw</title><link href="./9-29-hw.html" rel="alternate"></link><updated>2016-09-29T12:00:00+08:00</updated><author><name>40423135</name></author><id>tag:,2016-09-29:./9-29-hw.html</id><summary type="html">&lt;p&gt;先到&lt;font color="#990099"&gt; https://github.com/mdecourse/2016fallcadp/wiki/Solvespace_Parts &lt;/font&gt;了解這篇文章&lt;/p&gt;
 &lt;p&gt;diameter直徑 oriented定位 respectively分別 plane面 equivalent相當地 construct建構 Zoom放大&lt;/p&gt;
+
+
 &lt;p&gt;mounting套、掛 axes軸(s) Initially原來 empty空 extruding擠壓 gusset扣板 sketch草圖 profile輪廓&lt;/p&gt;
 &lt;p&gt;segments段 radiused圓角 automatically自動 consists由 coincident一致 achieve達成 horizontal橫&lt;/p&gt;
 &lt;p&gt;references引用 modified改性 hover徘徊 perpendicular垂直 transparent透明&lt;/p&gt;
@@ -162,9 +165,11 @@
 &lt;p&gt;我是到這邊抓免安裝版 http://www.azofreeware.com/2014/08/sharex-portable.html&lt;/p&gt;
 &lt;p&gt;內容設定
 &lt;a href="http://imgur.com/03MPhKJ"&gt;&lt;img src="http://i.imgur.com/03MPhKJ.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://imgur.com/ajaUQuH"&gt;&lt;img src="http://i.imgur.com/ajaUQuH.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>9 / 22 hw</title><link href="./9-22-hw.html" rel="alternate"></link><updated>2016-09-22T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-22:./9-22-hw.html</id><summary type="html">&lt;p&gt;1.先到 &lt;font color="#990099"&gt;https://github.com/mdecourse &lt;/font&gt; 的 2016cadp 按 Fork&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/ajaUQuH"&gt;&lt;img src="http://i.imgur.com/ajaUQuH.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="9月hw"></category></entry><entry><title>9 / 22 hw</title><link href="./9-22-hw.html" rel="alternate"></link><updated>2016-09-22T12:00:00+08:00</updated><author><name>40423135</name></author><id>tag:,2016-09-22:./9-22-hw.html</id><summary type="html">&lt;p&gt;1.先到 &lt;font color="#990099"&gt;https://github.com/mdecourse &lt;/font&gt; 的 2016cadp 按 Fork&lt;/p&gt;
 &lt;p&gt;2.在自己的github帳號創立一個 2016fallcadp_hw倉儲
 把最下面的 Add.gitignore輸入 Python  Add a license輸入 Agpl&lt;/p&gt;
+
+
 &lt;p&gt;3.在 2016fallcadp_hw倉儲 建立gh-pages分支&lt;/p&gt;
 &lt;p&gt;4.按上方的一個setting-branches-選擇gh-pages&lt;/p&gt;
 &lt;p&gt;5.在系上的電腦 輸入 &lt;font color="#990099"&gt;140.130.17.17/2016fall &lt;/font&gt;下載近端的python&lt;/p&gt;
@@ -174,4 +179,4 @@
 &lt;p&gt;7.在 40423125.github.io倉儲的左上角有一個 Create new file點進去
 新增&lt;font color="#990099"&gt;40423125.github.io.index.html &lt;/font&gt;就會有自己的網頁了&lt;/p&gt;
 &lt;p&gt;8.進入 &lt;font color="#990099"&gt;https://github.com/mdecourse/2016fallcadp/wiki &lt;/font&gt;的上課筆記 &lt;br /&gt;
-下載繪圖軟體練習零件繪製:&lt;font color="#990099"&gt; http://solvespace.com/bracket.pl &lt;/font&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry></feed>
+下載繪圖軟體練習零件繪製:&lt;font color="#990099"&gt; http://solvespace.com/bracket.pl &lt;/font&gt;&lt;/p&gt;</summary><category term="9月hw"></category></entry></feed>
