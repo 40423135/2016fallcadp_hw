@@ -7,8 +7,8 @@
 &lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/199667968"&gt;w15 hw-2&lt;/a&gt; from &lt;a href="https://vimeo.com/user61603798"&gt;陳冠錡&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;h1&gt;Onshape week1 hw-2&lt;/h1&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/199667932" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/199667932"&gt;w15 hw-1&lt;/a&gt; from &lt;a href="https://vimeo.com/user61603798"&gt;陳冠錡&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;用onshape畫圖還滿方便的！！
-雖然沒有辦法像solidworks那樣可以按指令
+&lt;h2&gt;用onshape畫圖還滿方便的！！&lt;/h2&gt;
+&lt;p&gt;雖然沒有辦法像solidworks那樣可以按指令
 但沒有軟體的可以直接上網就畫圖很方便&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>12 / 29 hw</title><link href="./12-29-hw.html" rel="alternate"></link><updated>2016-12-29T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-12-29:./12-29-hw.html</id><summary type="html"></summary><category term="fourbar"></category></entry><entry><title>12 / 22 hw</title><link href="./12-22-hw.html" rel="alternate"></link><updated>2016-12-22T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-12-22:./12-22-hw.html</id><summary type="html">&lt;h2&gt;3D印表機完成&lt;/h2&gt;
 
 
@@ -40,10 +40,7 @@
 &lt;p&gt;7.在 40423125.github.io倉儲的左上角有一個 Create new file點進去
 新增&lt;font color="#990099"&gt;40423125.github.io.index.html &lt;/font&gt;就會有自己的網頁了&lt;/p&gt;
 &lt;p&gt;8.進入 &lt;font color="#990099"&gt;https://github.com/mdecourse/2016fallcadp/wiki &lt;/font&gt;的上課筆記 &lt;br /&gt;
-下載繪圖軟體練習零件繪製:&lt;font color="#990099"&gt; http://solvespace.com/bracket.pl &lt;/font&gt;&lt;/p&gt;
-&lt;p&gt;畫3D的影片
-&lt;iframe src="https://player.vimeo.com/video/185641132" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/185641132"&gt;畫3d&lt;/a&gt; from &lt;a href="https://vimeo.com/user47988113"&gt;邱弘丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>12 / 15 hw</title><link href="./12-15-hw.html" rel="alternate"></link><updated>2016-12-15T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-12-15:./12-15-hw.html</id><summary type="html">&lt;h2&gt;2016Fall Solvespace 小方塊完成&lt;/h2&gt;
+下載繪圖軟體練習零件繪製:&lt;font color="#990099"&gt; http://solvespace.com/bracket.pl &lt;/font&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>12 / 15 hw</title><link href="./12-15-hw.html" rel="alternate"></link><updated>2016-12-15T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-12-15:./12-15-hw.html</id><summary type="html">&lt;h2&gt;2016Fall Solvespace 小方塊完成&lt;/h2&gt;
 
 
 &lt;h3&gt;本體&lt;/h3&gt;
@@ -96,75 +93,7 @@
 &lt;p&gt;Solvespace 平面四連桿機構模擬
 &lt;a href="http://imgur.com/q7drVfw"&gt;&lt;img src="http://i.imgur.com/q7drVfw.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;將所得到的點座標的.csv以Excel的畫圖，得到：
-&lt;a href="http://imgur.com/PlQPkMv"&gt;&lt;img src="http://i.imgur.com/PlQPkMv.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;首先利用 Brython, 讀取 data 目錄中的  w7_fourbar.csv座標檔案, 然後以 splitlines() 及 split() 取出各點的 x 座標與 y 座標後, 將點連成路徑曲線如下:&lt;/p&gt;
-&lt;!-- 導入 Brython 標準程式庫 --&gt;
-
-&lt;script type="text/javascript" 
-    src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
-&lt;/script&gt;
-
-&lt;!-- 啟動 Brython --&gt;
-
-&lt;script&gt;
-window.onload=function(){
-brython(1);
-}
-&lt;/script&gt;
-
-&lt;!-- 以下實際利用  Brython 畫兩條直線 --&gt;
-
-&lt;canvas id="fourbar" width="800" height="600"&gt;&lt;/canvas&gt;
-
-&lt;div id="container1"&gt;&lt;/div&gt;
-
-&lt;script type="text/python3"&gt;
-from browser import document as doc
-from browser import html
-import math
-# 準備繪圖畫布
-canvas = doc["fourbar"]
-container1 = doc['container1']
-ctx = canvas.getContext("2d")
-
-fourbar_data = open("./../w7/w7_fourbar.csv").read()
-fourbar_list = fourbar_data.splitlines()
-#container1 &lt;= fourbar_list[0]
-# 以下可以利用 ctx 物件進行畫圖
-# 先畫一條直線
-ctx.beginPath()
-# 設定線的寬度為 1 個單位
-ctx.lineWidth = 1
-# 利用 transform 將 y 座標反轉, 且 offset canvas.height
-# (X scale, X skew, Y skew, Y scale, X offset, Y offset)
-# 配合圖形位置進行座標轉換
-ctx.transform(1, 0, 0, -1, canvas.width/2+250, canvas.height/2+100)
-# 畫出 x 與 y 座標線
-# 各座標值放大 8 倍
-ratio = 8
-'''
-ctx.moveTo(0, 0)
-ctx.lineTo(0, 100)
-ctx.moveTo(0, 0)
-ctx.lineTo(100, 0)
-'''
-ctx.moveTo(0, 0)
-ctx.lineTo(-30*ratio, 0)
-start_point = fourbar_list[0].split(",")
-ctx.moveTo(float(start_point[0])*ratio, float(start_point[1])*ratio)
-count = 0
-for data in fourbar_list[1:]:
-    point = data.split(",")
-    #count = count + 1
-    #container1 &lt;= str(count) + ":" + point[0] + "," + point[1]
-    #container1 &lt;= html.BR()
-    ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
-# 設定顏色為藍色, 也可以使用 "rgb(0, 0, 255)" 字串設定顏色值
-ctx.strokeStyle = "blue"
-# 實際執行畫線
-ctx.stroke()
-ctx.closePath()
-&lt;/script&gt;</summary><category term="fourbar"></category></entry><entry><title>11 / 3 hw</title><link href="./11-3-hw.html" rel="alternate"></link><updated>2016-11-03T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-11-03:./11-3-hw.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;a href="http://imgur.com/PlQPkMv"&gt;&lt;img src="http://i.imgur.com/PlQPkMv.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>11 / 3 hw</title><link href="./11-3-hw.html" rel="alternate"></link><updated>2016-11-03T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-11-03:./11-3-hw.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;今天要自評與評組員囉!&lt;/p&gt;
 &lt;p&gt;也是看看自己這兩個月做了甚麼事!!!&lt;/p&gt;
@@ -273,10 +202,7 @@ for i in not_in_group:
 &lt;p&gt;這禮拜的作業就是小組的blog要有出來以及個人的要新增&lt;/p&gt;
 &lt;p&gt;小組:https://40423106.github.io/2016fallcadp_ag4/blog/index.html&lt;/p&gt;
 &lt;p&gt;個人:https://40423125.github.io/2016fallcadp_hw&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://imgur.com/vLLN4Dg"&gt;&lt;img src="http://i.imgur.com/vLLN4Dg.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;影片:
-&lt;iframe src="https://player.vimeo.com/video/187984647" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/187984647"&gt;40423125_2016_10_19&lt;/a&gt; from &lt;a href="https://vimeo.com/user47988113"&gt;邱弘丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>10 / 6 hw</title><link href="./10-6-hw.html" rel="alternate"></link><updated>2016-10-06T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-10-06:./10-6-hw.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/vLLN4Dg"&gt;&lt;img src="http://i.imgur.com/vLLN4Dg.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>10 / 6 hw</title><link href="./10-6-hw.html" rel="alternate"></link><updated>2016-10-06T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-10-06:./10-6-hw.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;機械設計系的目標:&lt;/p&gt;
 &lt;p&gt;培養具創造力 精通表達&lt;/p&gt;
@@ -287,11 +213,7 @@ for i in not_in_group:
 &lt;p&gt;工業4.0=客製化,體貼&lt;/p&gt;
 &lt;p&gt;設proxy=proxy.mde.tw 3128&lt;/p&gt;
 &lt;p&gt;近端裝pelican: pip install pelican&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://imgur.com/sRuXkDr"&gt;&lt;img src="http://i.imgur.com/sRuXkDr.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;影片:
-終於好囉!!!
-&lt;iframe src="https://player.vimeo.com/video/187131111" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/187131111"&gt;40423125_2016_10_12&lt;/a&gt; from &lt;a href="https://vimeo.com/user47988113"&gt;邱弘丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>9 / 29 hw</title><link href="./9-29-hw.html" rel="alternate"></link><updated>2016-09-29T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-29:./9-29-hw.html</id><summary type="html">&lt;p&gt;先到&lt;font color="#990099"&gt; https://github.com/mdecourse/2016fallcadp/wiki/Solvespace_Parts &lt;/font&gt;了解這篇文章&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/sRuXkDr"&gt;&lt;img src="http://i.imgur.com/sRuXkDr.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>9 / 29 hw</title><link href="./9-29-hw.html" rel="alternate"></link><updated>2016-09-29T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-29:./9-29-hw.html</id><summary type="html">&lt;p&gt;先到&lt;font color="#990099"&gt; https://github.com/mdecourse/2016fallcadp/wiki/Solvespace_Parts &lt;/font&gt;了解這篇文章&lt;/p&gt;
 &lt;p&gt;diameter直徑 oriented定位 respectively分別 plane面 equivalent相當地 construct建構 Zoom放大&lt;/p&gt;
 &lt;p&gt;mounting套、掛 axes軸(s) Initially原來 empty空 extruding擠壓 gusset扣板 sketch草圖 profile輪廓&lt;/p&gt;
 &lt;p&gt;segments段 radiused圓角 automatically自動 consists由 coincident一致 achieve達成 horizontal橫&lt;/p&gt;
@@ -330,10 +252,7 @@ for i in not_in_group:
 &lt;p&gt;我是到這邊抓免安裝版 http://www.azofreeware.com/2014/08/sharex-portable.html&lt;/p&gt;
 &lt;p&gt;內容設定
 &lt;a href="http://imgur.com/03MPhKJ"&gt;&lt;img src="http://i.imgur.com/03MPhKJ.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://imgur.com/ajaUQuH"&gt;&lt;img src="http://i.imgur.com/ajaUQuH.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;影片錄影
-&lt;iframe src="https://player.vimeo.com/video/185639140" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/185639140"&gt;錄製_2016_10_05_20_23_43_830&lt;/a&gt; from &lt;a href="https://vimeo.com/user47988113"&gt;邱弘丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>9 / 22 hw</title><link href="./9-22-hw.html" rel="alternate"></link><updated>2016-09-22T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-22:./9-22-hw.html</id><summary type="html">&lt;p&gt;1.先到 &lt;font color="#990099"&gt;https://github.com/mdecourse &lt;/font&gt; 的 2016cadp 按 Fork&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/ajaUQuH"&gt;&lt;img src="http://i.imgur.com/ajaUQuH.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>9 / 22 hw</title><link href="./9-22-hw.html" rel="alternate"></link><updated>2016-09-22T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-22:./9-22-hw.html</id><summary type="html">&lt;p&gt;1.先到 &lt;font color="#990099"&gt;https://github.com/mdecourse &lt;/font&gt; 的 2016cadp 按 Fork&lt;/p&gt;
 &lt;p&gt;2.在自己的github帳號創立一個 2016fallcadp_hw倉儲
 把最下面的 Add.gitignore輸入 Python  Add a license輸入 Agpl&lt;/p&gt;
 &lt;p&gt;3.在 2016fallcadp_hw倉儲 建立gh-pages分支&lt;/p&gt;
@@ -345,11 +264,7 @@ for i in not_in_group:
 &lt;p&gt;7.在 40423125.github.io倉儲的左上角有一個 Create new file點進去
 新增&lt;font color="#990099"&gt;40423125.github.io.index.html &lt;/font&gt;就會有自己的網頁了&lt;/p&gt;
 &lt;p&gt;8.進入 &lt;font color="#990099"&gt;https://github.com/mdecourse/2016fallcadp/wiki &lt;/font&gt;的上課筆記 &lt;br /&gt;
-下載繪圖軟體練習零件繪製:&lt;font color="#990099"&gt; http://solvespace.com/bracket.pl &lt;/font&gt;&lt;/p&gt;
-&lt;p&gt;畫3D的影片&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/185641132" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://vimeo.com/185641132"&gt;畫3d&lt;/a&gt; from &lt;a href="https://vimeo.com/user47988113"&gt;邱弘丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>9 / 15 hw</title><link href="./9-15-hw.html" rel="alternate"></link><updated>2016-09-15T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-15:./9-15-hw.html</id><summary type="html"></summary><category term="fourbar"></category></entry><entry><title>2016Fall 機械設計主題教學</title><link href="./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html</id><summary type="html">&lt;p&gt;知識管理與最佳化應用實驗室試圖利用計算機程式、網際內容管理、電腦輔助設計實習與協同產品設計實習等課程, 進行與機械設計相關的主題式教學, 其中包含強化創造力的教學、令學員熟習六種工程表達方式, 並且俱備融入協同設計所需要的四大面向知識與技能.&lt;/p&gt;
+下載繪圖軟體練習零件繪製:&lt;font color="#990099"&gt; http://solvespace.com/bracket.pl &lt;/font&gt;&lt;/p&gt;</summary><category term="fourbar"></category></entry><entry><title>9 / 15 hw</title><link href="./9-15-hw.html" rel="alternate"></link><updated>2016-09-15T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-15:./9-15-hw.html</id><summary type="html"></summary><category term="fourbar"></category></entry><entry><title>2016Fall 機械設計主題教學</title><link href="./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html</id><summary type="html">&lt;p&gt;知識管理與最佳化應用實驗室試圖利用計算機程式、網際內容管理、電腦輔助設計實習與協同產品設計實習等課程, 進行與機械設計相關的主題式教學, 其中包含強化創造力的教學、令學員熟習六種工程表達方式, 並且俱備融入協同設計所需要的四大面向知識與技能.&lt;/p&gt;
 
 
 &lt;h1&gt;機械設計主題教學&lt;/h1&gt;
